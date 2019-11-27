@@ -1,0 +1,715 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`constructor builds a deck with the max number of suits and ranks by default 1`] = `
+Array [
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Eight",
+      "shortName": "8",
+      "value": 8,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Nine",
+      "shortName": "9",
+      "value": 9,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ten",
+      "shortName": "10",
+      "value": 10,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Jack",
+      "shortName": "J",
+      "value": 11,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Queen",
+      "shortName": "Q",
+      "value": 12,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "King",
+      "shortName": "K",
+      "value": 13,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ace",
+      "shortName": "A",
+      "value": 14,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Eight",
+      "shortName": "8",
+      "value": 8,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Nine",
+      "shortName": "9",
+      "value": 9,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ten",
+      "shortName": "10",
+      "value": 10,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Jack",
+      "shortName": "J",
+      "value": 11,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Queen",
+      "shortName": "Q",
+      "value": 12,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "King",
+      "shortName": "K",
+      "value": 13,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ace",
+      "shortName": "A",
+      "value": 14,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Eight",
+      "shortName": "8",
+      "value": 8,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Nine",
+      "shortName": "9",
+      "value": 9,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ten",
+      "shortName": "10",
+      "value": 10,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Jack",
+      "shortName": "J",
+      "value": 11,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Queen",
+      "shortName": "Q",
+      "value": 12,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "King",
+      "shortName": "K",
+      "value": 13,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ace",
+      "shortName": "A",
+      "value": 14,
+    },
+    "suit": Object {
+      "name": "Hearts",
+      "shortName": "♡",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Eight",
+      "shortName": "8",
+      "value": 8,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Nine",
+      "shortName": "9",
+      "value": 9,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ten",
+      "shortName": "10",
+      "value": 10,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Jack",
+      "shortName": "J",
+      "value": 11,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Queen",
+      "shortName": "Q",
+      "value": 12,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "King",
+      "shortName": "K",
+      "value": 13,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Ace",
+      "shortName": "A",
+      "value": 14,
+    },
+    "suit": Object {
+      "name": "Spades",
+      "shortName": "♤",
+    },
+  },
+]
+`;
+
+exports[`constructor builds a deck with the supplied number of suits and ranks 1`] = `
+Array [
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Clubs",
+      "shortName": "♧",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Two",
+      "shortName": "2",
+      "value": 2,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Three",
+      "shortName": "3",
+      "value": 3,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Four",
+      "shortName": "4",
+      "value": 4,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Five",
+      "shortName": "5",
+      "value": 5,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Six",
+      "shortName": "6",
+      "value": 6,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+  Card {
+    "rank": Object {
+      "name": "Seven",
+      "shortName": "7",
+      "value": 7,
+    },
+    "suit": Object {
+      "name": "Diamonds",
+      "shortName": "♢",
+    },
+  },
+]
+`;

@@ -1,0 +1,31 @@
+{
+  "name": "vbabel-war",
+  "version": "1.0.0",
+  "description": "The game of War",
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "main": "demo.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "jsdoc js -d docs -R ./README.md && http-server docs",
+    "demo": "./demo.js",
+    "lint": "eslint js/ demo.js"
+  },
+  "author": "Victor Babel",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "lodash.map": "^4.6.0",
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "colors": "^1.4.0",
+    "eslint": "^6.7.1",
+    "eslint-plugin-jest": "^23.0.5",
+    "http-server": "^0.11.1",
+    "jest": "^24.9.0",
+    "jsdoc": "^3.6.3"
+  }
+}
